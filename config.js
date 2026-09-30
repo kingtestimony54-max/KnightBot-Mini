@@ -30,7 +30,7 @@ I'm    packname: 'king Testimony Bot'
     // Group Settings Defaults
     defaultGroupSettingsfalse     antilink: true,
       antilinkAction: 'delete', // 'delete', 'kick', 'warn'
-      antitag: false,
+      antitag: true,
       antitagAction: 'delete',
       antiall: false, // Owner only - blocks all messages from non-admins
       antiviewonce: false,
