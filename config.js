@@ -28,8 +28,7 @@ I'm    packname: 'king Testimony Bot'
     autoDownload: false,
     
     // Group Settings Defaults
-    defaultGroupSettings: {
-      antilink: false,
+    defaultGroupSettingsfalse     antilink: true,
       antilinkAction: 'delete', // 'delete', 'kick', 'warn'
       antitag: false,
       antitagAction: 'delete',
