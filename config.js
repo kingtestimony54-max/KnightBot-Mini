@@ -41,7 +41,7 @@ I'm    packname: 'king Testimony Bot'
       antigroupmentionAction: 'delete', // 'delete', 'kick'
       antigroupstatus: false, // Block group status posts
       antigroupstatusAction: 'delete', // 'delete', 'kick'
-      antisticker: false, // Stickers not allowed in group
+      antisticker: true, // Stickers not allowed in group
       antistickerAction: 'delete', // 'delete', 'kick'
       antibadword: false, // Block bad words in group
       antibadwordAction: 'delete', // 'delete', 'kick', 'warn'
