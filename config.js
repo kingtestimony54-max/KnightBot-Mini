@@ -79,7 +79,7 @@ I'm    packname: 'king Testimony Bot'
       invalidCommand: '❓ Invalid command! Type .menu for help'
     },
     
-    // TimKolkata'  timezone:'Africa/Lagos;'
+      timezone:'Africa/Lagos;'
     // Limits
     maxWarnings: 3,
     
