@@ -36,8 +36,7 @@ I'm    packname: 'king Testimony Bot'
       antiviewonce: false,
       antibot: false,
       antibotAction: 'warn', // 'warn' | 'kick'
-      anticall: false, // Anti-call feature
-      antigroupmention: false, // Anti-group mention feature
+      anticall: false, // Anti-call featfalse     antigroupmention: true, // Anti-group mention feature
       antigroupmentionAction: 'delete', // 'delete', 'kick'
       antigroupstatus: false, // Block group status posts
       antigroupstatusAction: 'delete', // 'delete', 'kick'
